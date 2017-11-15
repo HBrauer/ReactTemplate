@@ -1,0 +1,9 @@
+{
+  "presets": ["react", "stage-1", ["env", {
+      "targets": {
+        "browsers": ["last 2 versions"]
+      },
+      "debug": true
+    }]
+  ]
+}
